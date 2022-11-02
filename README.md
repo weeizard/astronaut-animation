@@ -1,7 +1,6 @@
-# astronaut-animation
+# astronaut-animation from @codingartist
 
 # What Did I Learn? 
-
 - In order to do animations, you have to instantiate what you want to do using @keyframes 
 - :before -> the element is farthest away from the screen. :after goes on top of :before. (Like layers, before is the farest layer)
 - border-radius
